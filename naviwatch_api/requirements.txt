@@ -17,7 +17,7 @@ Mako==1.0.10
 MarkupSafe==1.1.1
 marshmallow==3.0.0rc4
 marshmallow-sqlalchemy==0.16.1
-mistune==0.8.4
+mistune==2.0.3
 PyMySQL==0.9.3
 pyrsistent==0.15.2
 python-dateutil==2.8.0
